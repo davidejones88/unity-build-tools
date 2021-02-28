@@ -6,6 +6,8 @@ A simple, extendable tool to streamline the Unity build process
 
 The unitypackage will add a BuildTools menu in the Unity Editor
 
+![]](./Documentation/screenshot1.png)
+
 ## Installing
 
 Download and install the unitypackage from the latest release
